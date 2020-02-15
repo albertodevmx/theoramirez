@@ -1,0 +1,2 @@
+[23-Apr-2015 00:56:20 UTC] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/revistg4/public_html/theoramirez/wp-includes/functions.php on line 2663
+[11-Jan-2017 11:32:13 America/Denver] PHP Fatal error:  Call to undefined function __() in /home/revistg4/public_html/theoramirez/wp-admin/menu.php on line 23

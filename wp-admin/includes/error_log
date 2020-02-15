@@ -1,0 +1,2 @@
+[25-Aug-2016 04:57:59 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/revistg4/public_html/theoramirez/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 19:48:00 America/Denver] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/revistg4/public_html/theoramirez/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

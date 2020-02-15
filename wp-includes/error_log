@@ -1,0 +1,6 @@
+[27-Dec-2016 18:03:46 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/revistg4/public_html/theoramirez/wp-includes/registration-functions.php on line 7
+[27-Dec-2016 18:03:46 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/revistg4/public_html/theoramirez/wp-includes/registration-functions.php on line 7
+[11-Jan-2017 10:38:18 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/revistg4/public_html/theoramirez/wp-includes/functions.php on line 8
+[11-Jan-2017 10:38:18 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/revistg4/public_html/theoramirez/wp-includes/functions.php on line 8
+[11-Jan-2017 10:38:18 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/revistg4/public_html/theoramirez/wp-includes/functions.php on line 8
+[10-Mar-2017 02:01:11 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/revistg4/public_html/theoramirez/wp-includes/rss-functions.php on line 8
